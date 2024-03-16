@@ -8,4 +8,4 @@ This is an API for a fictitious insurance company, where an API needed to be cre
 
 For now, there is no SQL Server setup and data is currently generated in code. 
 
-Minimal APIs have been used, as well as Object Orientated Programming, Unit Tests, Integration Tests, AutoMapper and Clean Architecture.
+Minimal APIs have been used, as well as Object Orientated Programming, Unit Tests, Integration Tests, AutoMapper and Clean Architecture to separate concerns.

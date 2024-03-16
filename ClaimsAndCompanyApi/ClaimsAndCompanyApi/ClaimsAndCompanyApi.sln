@@ -15,9 +15,14 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{DEE1904B
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClaimsAndCompany.Infrastructure.Tests", "ClaimsAndCompany.Infrastructure.Test\ClaimsAndCompany.Infrastructure.Tests.csproj", "{F90E50F7-8157-48F3-90E6-5064529FEDC7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClaimsAndCompany.Application.Tests", "ClaimsAndCompany.Application.Tests\ClaimsAndCompany.Application.Tests.csproj", "{50354C5E-5245-4F5F-83E6-D9D4EB9CDB08}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClaimsAndCompany.Application.Tests", "ClaimsAndCompany.Application.Tests\ClaimsAndCompany.Application.Tests.csproj", "{50354C5E-5245-4F5F-83E6-D9D4EB9CDB08}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClaimsAndCompany.Api.Integration.Tests", "ClaimsAndCompany.Api.Integration.Tests\ClaimsAndCompany.Api.Integration.Tests.csproj", "{D45B4873-45E7-4A2C-BA53-C151F40A4D06}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClaimsAndCompany.Api.Integration.Tests", "ClaimsAndCompany.Api.Integration.Tests\ClaimsAndCompany.Api.Integration.Tests.csproj", "{D45B4873-45E7-4A2C-BA53-C151F40A4D06}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E225F2CC-7D8B-4D6E-A721-585CE67B1402}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\README.md = ..\..\README.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
